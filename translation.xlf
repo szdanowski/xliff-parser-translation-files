@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="login" datatype="plaintext" xml:space="preserve" >
+    <body>
+     
+      <trans-unit id="app_name">
+        <source xml:lang="en">CMSCopySampleApp</source>
+      </trans-unit>
+
+      <trans-unit id="login.label.text.helloUser">
+        <source xml:lang="en">Hello!</source>
+        <target xml:lang="pl">Siema</target>
+      </trans-unit>
+
+      <trans-unit id="login.inputtext.placeholder.email">
+       <source xml:lang="en">Email</source>
+       <target xml:lang="pl">Adres email</target>
+       <target xml:lang="it">indirizzo email</target>
+      </trans-unit>
+
+      <trans-unit id="login.inputtext.placeholder.password">
+        <source xml:lang="en">Password</source>
+        <target xml:lang="pl">Hasło!!</target>
+      </trans-unit>
+
+      <trans-unit id="login.button.text.login">
+        <source xml:lang="en">Login</source>
+        <target xml:lang="pl">Zaloguj się!!</target>
+      </trans-unit>
+
+    </body>
+  </file>
+ </xliff>
