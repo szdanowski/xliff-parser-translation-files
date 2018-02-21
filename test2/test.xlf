@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+    <file original="" datatype="plaintext" xml:space="preserve">
+        <body>
+            <trans-unit id="onboardingAddressNotFound.label.text.title">
+                <source xml:lang="EN">What\'s your address?</source>
+            </trans-unit>
+            <trans-unit id="onboardingAddressNotFound.inputText.placeholder.line1">
+                <source xml:lang="EN">Line 1*</source>
+            </trans-unit>
+            <trans-unit id="onboardingAddressNotFound.inputText.placeholder.line2">
+                <source xml:lang="EN">Line 2</source>
+            </trans-unit>
+            <trans-unit id="onboardingAddressNotFound.inputText.placeholder.line3">
+                <source xml:lang="EN">Line 3</source>
+            </trans-unit>
+            <trans-unit id="onboardingAddressNotFound.inputText.placeholder.townCity">
+                <source xml:lang="EN">City/Town*</source>
+            </trans-unit>
+            <trans-unit id="onboardingAddressNotFound.inputText.placeholder.county">
+                <source xml:lang="EN">County</source>
+            </trans-unit>
+            <trans-unit id="onboardingAddressNotFound.inputText.placeholder.postcode">
+                <source xml:lang="EN">Postcode*</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
