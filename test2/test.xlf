@@ -23,6 +23,7 @@
             <trans-unit id="onboardingAddressNotFound.label.text.title">
                 <source xml:lang="en">What\'s your address?</source>
                 <target xml:lang="pl">Podaj swój adres</target>
+                <target xml:lang="it">Gimme adresse</target>
             </trans-unit>
         </body>
     </file>
