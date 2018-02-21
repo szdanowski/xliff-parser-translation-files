@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-    <file original="" datatype="plaintext" xml:space="preserve">
+    <file original="strings_fragment_onboarding_address_not_found" datatype="plaintext" xml:space="preserve">
         <body>
             <trans-unit id="onboardingAddressNotFound.label.text.title">
                 <source xml:lang="EN">What\'s your address?</source>
